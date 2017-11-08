@@ -1,0 +1,12 @@
+apply plugin: 'pegasus'
+// apply plugin: 'java' will NOT create restspec.json
+// needed for clint binding generation
+
+ext.apiProject = project(':myserver:rest-api')
+dependencies {
+    compile spec.linkedin.pegasus.restliServer //TODO: for "com.linkedin.restli.common.EmptyRecord" cannot be resolved.
+    compile project(':myserver:rest-api')
+    compile spec.springframework.springjdbc
+    compile spec.apache.commons.commonsdbcp2
+    compile spec.mysql.mysqlconnectorjava
+}

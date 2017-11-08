@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.servicemix.bundles:org.apache.servicemix.bundles.kafka-clients:0.11.0.0_1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.kafka-clients/0.11.0.0_1/343317ddef7b2e7bb9481018209b617c15995a5a/org.apache.servicemix.bundles.kafka-clients-0.11.0.0_1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.kafka-clients/0.11.0.0_1/c0166488729d451daa7cdf91fbe7c705b58049c9/org.apache.servicemix.bundles.kafka-clients-0.11.0.0_1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

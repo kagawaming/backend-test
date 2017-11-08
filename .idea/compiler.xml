@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="kafkaConsumer_main" target="1.8" />
+      <module name="kafkaConsumer_test" target="1.8" />
+      <module name="listener_main" target="1.8" />
+      <module name="listener_test" target="1.8" />
+      <module name="myserver-backend-war_main" target="1.8" />
+      <module name="myserver-backend-war_test" target="1.8" />
+      <module name="rest-api_main" target="1.8" />
+      <module name="rest-api_mainGeneratedDataTemplate" target="1.8" />
+      <module name="rest-api_mainGeneratedRest" target="1.8" />
+      <module name="rest-api_test" target="1.8" />
+      <module name="rest-api_testGeneratedDataTemplate" target="1.8" />
+      <module name="rest-client_main" target="1.8" />
+      <module name="rest-client_test" target="1.8" />
+      <module name="rest-impl_main" target="1.8" />
+      <module name="rest-impl_mainGeneratedDataTemplate" target="1.8" />
+      <module name="rest-impl_test" target="1.8" />
+      <module name="rest-impl_testGeneratedDataTemplate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

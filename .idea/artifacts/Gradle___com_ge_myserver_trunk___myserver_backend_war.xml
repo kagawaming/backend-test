@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.ge.myserver.trunk : myserver-backend.war">
+    <output-path>$PROJECT_DIR$/myserver/myserver-backend-war/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="myserver-backend.war">
+      <element id="artifact" artifact-name="Gradle : com.ge.myserver.trunk : myserver-backend.war (exploded)" />
+    </root>
+  </artifact>
+</component>

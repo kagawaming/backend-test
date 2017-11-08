@@ -1,0 +1,81 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.ge.myserver.trunk : myserver-backend.war (exploded)">
+    <output-path>$PROJECT_DIR$/myserver/myserver-backend-war/build/libs/exploded/myserver-backend.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/myserver/myserver-backend-war/build/libs/exploded/myserver-backend.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="myserver-backend-war_main/web/Web Gradle : myserver-backend.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="myserver-backend-war_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/myserver/myserver-backend-war/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.ge.myserver.trunk-listener-0.0.1.jar">
+            <element id="module-output" name="listener_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/myserver/listener/build/resources/main" />
+          </element>
+          <element id="archive" name="com.ge.myserver.trunk-rest-impl-0.0.1.jar">
+            <element id="module-output" name="rest-impl_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/myserver/rest-impl/build/resources/main" />
+          </element>
+          <element id="file-copy" path="$PROJECT_DIR$/myserver/rest-impl/build/libs/rest-impl-data-template-0.0.1.jar" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:restli-server:11.0.17" />
+          <element id="archive" name="com.ge.myserver.trunk-rest-api-0.0.1.jar">
+            <element id="module-output" name="rest-api_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/myserver/rest-api/build/resources/main" />
+          </element>
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:restli-common:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:data-transform:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.google.code.findbugs:jsr305:3.0.0" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:multipart-mime:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:r2-core:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:data:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:pegasus-common:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.linkedin.pegasus:li-jersey-uri:11.0.17" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.8.3" />
+          <element id="library" level="project" name="Gradle: com.google.guava:guava:19.0" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.4" />
+          <element id="library" level="project" name="Gradle: org.antlr:antlr4:4.5" />
+          <element id="library" level="project" name="Gradle: commons-lang:commons-lang:2.4" />
+          <element id="library" level="project" name="Gradle: javax.mail:mail:1.4.1" />
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: org.antlr:antlr4-runtime:4.5" />
+          <element id="library" level="project" name="Gradle: org.antlr:ST4:4.0.8" />
+          <element id="library" level="project" name="Gradle: org.antlr:antlr-runtime:3.5.2" />
+          <element id="library" level="project" name="Gradle: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.1" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-dbcp2:2.1.1" />
+          <element id="library" level="project" name="Gradle: mysql:mysql-connector-java:8.0.7-dmr" />
+          <element id="library" level="project" name="Gradle: com.linkedin.parseq:parseq:2.6.4" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Gradle: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-pool2:2.4.2" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.8.8" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.8.8" />
+          <element id="library" level="project" name="Gradle: org.apache.servicemix.bundles:org.apache.servicemix.bundles.kafka-clients:0.11.0.0_1" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-webapp:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-servlet:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-security:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-server:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-http:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-io:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-xml:9.4.7.RC0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-util:9.4.7.RC0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

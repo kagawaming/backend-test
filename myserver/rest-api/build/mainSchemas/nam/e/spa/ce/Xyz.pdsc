@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "name": "Xyz",
+  "namespace": "nam.e.spa.ce",
+  "doc": "Be nice to write something!",
+  "fields": [
+    {
+      "name": "num1",
+      "type": "int",
+      "doc": "Be nice to write something!"
+    },
+    {
+      "name": "num2",
+      "type": "int",
+      "doc": "Be nice to write something!"
+    },
+    {
+      "name": "sum",
+      "type": "int",
+      "doc": "Be nice to write something!"
+    }
+  ]
+}

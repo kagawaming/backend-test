@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/listener/listener.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/listener/listener.iml" group="myserver/listener" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/listener/listener_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/listener/listener_main.iml" group="myserver/listener" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/listener/listener_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/listener/listener_test.iml" group="myserver/listener" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/myserver.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/myserver.iml" group="myserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war.iml" group="myserver/myserver-backend-war" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war_main.iml" group="myserver/myserver-backend-war" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/myserver-backend-war/myserver-backend-war_test.iml" group="myserver/myserver-backend-war" />
+      <module fileurl="file://$PROJECT_DIR$/myserverbackend_trunk.iml" filepath="$PROJECT_DIR$/myserverbackend_trunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_main.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_mainGeneratedDataTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_mainGeneratedDataTemplate.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_mainGeneratedRest.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_mainGeneratedRest.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_test.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_testGeneratedDataTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-api/rest-api_testGeneratedDataTemplate.iml" group="myserver/rest-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client.iml" group="myserver/rest-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client_main.iml" group="myserver/rest-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-client/rest-client_test.iml" group="myserver/rest-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl.iml" group="myserver/rest-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_main.iml" group="myserver/rest-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_mainGeneratedDataTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_mainGeneratedDataTemplate.iml" group="myserver/rest-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_test.iml" group="myserver/rest-impl" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_testGeneratedDataTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/myserver/rest-impl/rest-impl_testGeneratedDataTemplate.iml" group="myserver/rest-impl" />
+    </modules>
+  </component>
+</project>
